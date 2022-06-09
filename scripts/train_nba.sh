@@ -1,0 +1,1 @@
+python train.py --data_path './Dataset/' --num_frame 18 --num_total_frame 72 --num_activities 9 --motion --multi_corr
