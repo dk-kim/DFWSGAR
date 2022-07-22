@@ -47,37 +47,29 @@ The dataset is available upon request to the authors of
   
 
 ## Download trained weights
-
     sh scripts/download_checkpoints.sh
 
 ## Run test scripts
 
-- Volleyball dataset (Merged 6 class classification)
-  
+- Volleyball dataset (Merged 6 class classification)  
     sh scripts/test_volleyball_merged.sh
 
-- Volleyball dataset (Original 8 class classification) 
-  
+- Volleyball dataset (Original 8 class classification)   
     sh scripts/test_volleyball.sh
 
-- NBA dataset
-  
+- NBA dataset  
     sh scripts/test_nba.sh
 
 
 ## Run train scripts
 
 - Volleyball dataset (Merged 6 class classification)
-
     sh scripts/train_volleyball_merged.sh
 
 - Volleyball dataset (Original 8 class classification)
-
     sh scripts/train_volleyball.sh
 
 - NBA dataset
-
-
     sh scripts/train_nba.sh
 
 
