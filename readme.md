@@ -54,17 +54,14 @@ The dataset is available upon request to the authors of
 
 - Volleyball dataset (Merged 6 class classification)
   
-
     sh scripts/test_volleyball_merged.sh
 
 - Volleyball dataset (Original 8 class classification) 
   
-
     sh scripts/test_volleyball.sh
 
 - NBA dataset
   
-
     sh scripts/test_nba.sh
 
 
@@ -72,11 +69,9 @@ The dataset is available upon request to the authors of
 
 - Volleyball dataset (Merged 6 class classification)
 
-
     sh scripts/train_volleyball_merged.sh
 
 - Volleyball dataset (Original 8 class classification)
-
 
     sh scripts/train_volleyball.sh
 
