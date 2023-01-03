@@ -1,1 +1,1 @@
-python train.py --dataset 'volleyball' --data_path './Dataset/' --num_frame 5 --num_total_frame 10 --num_activities 8 --motion --enc_layers 2 --nheads 2 --nheads_agg 2
+python train.py --dataset 'volleyball' --data_path './Dataset/' --num_frame 5 --num_total_frame 10 --num_activities 8 --motion --enc_layers 2 --nheads 2 --nheads_agg 2 --random_seed 3 --test_freq 1 --batch 8 --test_batch 8 --weight_decay 1e-3
